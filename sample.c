@@ -1,6 +1,6 @@
 #include<stdio.h>
 main()
 {
-if(printf("This is my name"){
+if(printf("This is my edited name"){
 }
 }
